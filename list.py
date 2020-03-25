@@ -33,3 +33,6 @@ fruits.pop(2)
 #reverse list
 fruits.reverse()
 
+# change value
+fruits[0] = 'kaka'
+print(fruits)
